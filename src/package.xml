@@ -4,5 +4,9 @@
         <members>Calculatorclass</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Helloworld</members>
+        <name>ApexClass</name>
+    </types>
     <version>55.0</version>
 </Package>
